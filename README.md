@@ -1,6 +1,6 @@
 # Projeto [MongoDB Aggregations](https://github.com/tryber/sd-012-mongodb-aggregations/pull/39)
   - Módulo 3: Desenvolvimento Back-end
-  - Bloco 24: MongoDB: Aggregation Framework
+  - Bloco 25: MongoDB: Aggregation Framework
 ### Requisitos
 - [x] Desafio 1 - Ajude a Trybe a escolher um filme para a próxima noite! Baseado em uma pesquisa, decidimos que os filmes em potencial devem atender alguns critérios, vejamos:
 
